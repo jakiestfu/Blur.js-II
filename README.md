@@ -1,6 +1,6 @@
 # Blur.js II
 
-blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
+Javascript library for blurring HTML content with CSS and SVG
 
 
 ## Usage
